@@ -13,8 +13,7 @@ public class Main {
          * String prenom = scanner.nextLine();
          * System.out.println("Bonjour " + prenom + " !");
          */
-        somme();
-        division();
+        paveDroit();
     }
 
     /**
