@@ -23,7 +23,7 @@ public class Complexite {
                 memo[i][j] = -1;
             }
         }
-        System.out.println(combinationCount(pieces, somme, 0, memo));
+        // System.out.println(combinationCount(pieces, somme, 0, memo));
     }
 
     public static int combinationCount(int[] coins, int amount, int index, int[][] memo) {
